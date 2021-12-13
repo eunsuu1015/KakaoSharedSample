@@ -1,0 +1,6 @@
+framework module Pods_KakaoSharedTest {
+  umbrella header "Pods-KakaoSharedTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
